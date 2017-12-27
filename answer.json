@@ -2,6 +2,6 @@
     {
         "action": "talk",
         "voiceName": "dashboard",
-        "text": "This is Karthik.This is the test voice message from System Health Dashboard"
+        "text": "This is the test voice message from System Health Dashboard"
     }
 ]
