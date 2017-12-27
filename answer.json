@@ -2,6 +2,6 @@
     {
         "action": "talk",
         "voiceName": "test_voicecall",
-        "text": "This is the test voice message from System Health Dashboard"
+        "text": "Hi, this is Russell. You are listening to a text-to-speech Call made with Nexmo's Voice API"
     }
 ]
