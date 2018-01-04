@@ -7,6 +7,6 @@
     {
     "action": "input",
         "timeOut" : "10",
-        "submitOnHash" => true
+        "submitOnHash" : true
   }
 ]
