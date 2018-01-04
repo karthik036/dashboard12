@@ -6,8 +6,6 @@
     },
     {
     "action": "input",
-    "eventUrl":"https://requestb.in/uehqlnue",
-        "timeOut" : "10",
-        "submitOnHash" : true
+        "timeOut" : "10"
   }
 ]
