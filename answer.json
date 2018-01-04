@@ -8,5 +8,10 @@
     "action": "input",
         "timeOut" : "10",
         "submitOnHash" : true
-  }
-]
+    },
+{
+  "action" => "talk",
+  "voiceName" => "Jennifer",
+  "text" => "Thank you, you may now hang up."
+}
+    ]
