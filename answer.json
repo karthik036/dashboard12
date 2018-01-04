@@ -10,8 +10,8 @@
         "submitOnHash" : true
     },
 {
-  "action" => "talk",
-  "voiceName" => "Jennifer",
-  "text" => "Thank you, you may now hang up."
+  "action" : "talk",
+  "voiceName" : "Russell",
+  "text" : "Thank you, you may now hang up."
 }
     ]
