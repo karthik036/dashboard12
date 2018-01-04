@@ -5,7 +5,7 @@
         "text": "This is voice message from System Health Dashboard.The Concurrent Program is running for more than five minutes."
     },
     {
-    "action": "input"
+    "action": "input",
      "voiceName": "Amy",
      "text": "Press any digits."
   }
