@@ -2,7 +2,7 @@
     {
         "action": "talk",
         "voiceName": "Russell",
-        "text": "This is voice message from System Health Dashboard. The Concurrent Program is running for more than five minutes. Please acknowledge by pressing any numbers on your phone, followed by the Hash Button."
+        "text": "This is voice message from System Health Dashboard. The Concurrent Program is running for more than five minutes. Please acknowledge by pressing any numbers on your phone, followed by the Hash Key."
     },
     {
     "action": "input",
